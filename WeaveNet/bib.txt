@@ -1,0 +1,8 @@
+@inproceedings{yu2022weavenet,
+  title={WeaveNet: End-to-End Audiovisual Sentiment Analysis},
+  author={Yu, Yinfeng and Jia, Zhenhong and Shi, Fei and Zhu, Meiling and Wang, Wenjun and Li, Xiuhong},
+  booktitle={Cognitive Systems and Information Processing: 6th International Conference, ICCSIP 2021, Suzhou, China, November 20--21, 2021, Revised Selected Papers},
+  pages={3--16},
+  year={2022},
+  organization={Springer}
+}

@@ -1,0 +1,10 @@
+@article{wenyan2018sar,
+  title={SAR image change detection based on equal weight image fusion and adaptive threshold in the NSST domain},
+  author={Wenyan, Zhou and Zhenhong, Jia and Yu, Yinfeng and Yang, Jie and Kasabov, Nilola},
+  journal={European Journal of Remote Sensing},
+  volume={51},
+  number={1},
+  pages={785--794},
+  year={2018},
+  publisher={Taylor \& Francis}
+}

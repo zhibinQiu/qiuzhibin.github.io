@@ -1,0 +1,87 @@
+@inproceedings{SAAVN,
+  author    = {Yinfeng Yu and
+               Wenbing Huang and
+               Fuchun Sun and
+               Changan Chen and
+               Yikai Wang and
+               Xiaohong Liu},
+  title     = {Sound Adversarial Audio-Visual Navigation},
+  booktitle = {The Tenth International Conference on Learning Representations, {ICLR} 2022, Virtual Event, April 25-29, 2022},
+  publisher = {OpenReview.net},
+  year      = {2022}
+}
+
+
+@inproceedings{fsaavn,
+  author    = {Yinfeng Yu and
+               Lele Cao and
+               Fuchun Sun and
+               Xiaohong Liu and
+               Liejun Wang},
+  title     = {Pay Self-Attention to Audio-Visual Navigation},
+  booktitle = {The 33rd British Machine Vision Conference 2022, {BMVC} 2022, London,
+               UK, November 21-24, 2022},
+  pages     = {46},
+  publisher = {{BMVA} Press},
+  year      = {2022}
+}
+
+
+@article{E3VN,
+    author = {Yu, Yinfeng and Cao, Lele and Sun, Fuchun and Yang, Chao and Lai, Huicheng and Huang, Wenbing},
+    title = {Echo-Enhanced Embodied Visual Navigation},
+    journal = {Neural Computation},
+    volume = {35},
+    number = {5},
+    pages = {958-976},
+    year = {2023},
+    month = {04},
+    issn = {0899-7667},
+    doi = {10.1162/neco_a_01579}
+}
+
+@inproceedings{MACMA,
+  author    = {Yinfeng Yu and Changan Chen and Lele Cao and Fangkai Yang and Wenbing Huang and Fuchun Sun},
+  title     = {Measuring Acoustics with Collaborative Multiple Agents},
+  booktitle = {The 32nd International Joint Conference on Artificial Intelligence, {IJCAI}
+           2023, Macao, August 19-25, 2023},
+  year      = {2023}
+}
+
+@inproceedings{WeaveNet,
+  author       = {Yinfeng Yu and
+                  Zhenhong Jia and
+                  Fei Shi and
+                  Meiling Zhu and
+                  Wenjun Wang and
+                  Xiuhong Li},
+  title        = {WeaveNet: End-to-End Audiovisual Sentiment Analysis},
+  booktitle    = {Cognitive Systems and Information Processing - 6th International Conference, {ICCSIP} 2021, Suzhou, China, November 20-21, 2021},
+  series       = {Communications in Computer and Information Science},
+  volume       = {1515},
+  pages        = {3--16},
+  publisher    = {Springer},
+  year         = {2021}
+}
+     
+@inproceedings{SRTNet,
+  author       = {Zhibin Qiu and Mengfan Fu and Yinfeng Yu and Lili Yin and Fuchun Sun and Hao Huang},
+  title        = {SRTNet: Time Domain Speech Enhancement Via Stochastic Refinement},
+  booktitle    = {{IEEE} International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2023, Rhodes Island, Greece, June 4-10, 2023},
+  publisher    = {{IEEE}},
+  year         = {2023}
+}
+
+@inproceedings{WSS,
+  author       = {Yinfeng Yu and Changan Chen and Fuchun Sun},
+  title        = {Sound Adversarial Audio-Visual Navigation},
+  booktitle    = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition Workshops, {CVPR} Workshops 2022, New Orleans, LA, USA, June 19-20, 2022, Sight and Sound Workshop (WSS)},
+  year         = {2022}
+}
+
+@inproceedings{AV4D,
+  author       = {Yinfeng Yu and Changan Chen and Fuchun Sun},
+  title        = {Sound Adversarial Audio-Visual Navigation},
+  booktitle    = {European Conference on Computer Vision - {ECCV} 2022 Workshops - Tel Aviv, Israel, October 23-27, 2022, Visual Learning of Sounds in Spaces (AV4D)},
+  year         = {2022}
+}

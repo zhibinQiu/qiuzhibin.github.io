@@ -1,0 +1,9 @@
+@article{ma2019multi,
+  title={Multi-spectral image change detection based on band selection and single-band iterative weighting},
+  author={Ma, Liyuan and Jia, Zhenhong and Yu, Yinfeng and Yang, Jie and Kasabov, Nikola K},
+  journal={IEEE Access},
+  volume={7},
+  pages={27948--27956},
+  year={2019},
+  publisher={IEEE}
+}

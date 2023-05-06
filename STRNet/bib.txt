@@ -1,0 +1,9 @@
+@INPROCEEDINGS{SRTNet,
+	author={Zhibin Qiu, Mengfan Fu, Yinfeng Yu, Lili Yin, Fuchun Sun, Hao Huang},
+	booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing 2023},
+	title={SRTNet: Time Domain Speech Enhancement Via Stochastic Refinement}, 
+	year={2013},
+	volume={},
+	number={},
+	pages={}
+ }
